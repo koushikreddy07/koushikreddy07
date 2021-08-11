@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @koushikreddy07
+- 👋 Hello world, I’m KOUSHIK REDDY P
 - 👀 I’m interested in ...Automation testing
 - 🌱 I’m currently learning ...selenium for automation
-- 💞️ I’m looking to collaborate on ...automation testing.
+- 💞️ I’m looking to collaborate on ...software testing.
 - 📫 How to reach me ...9611312906/koushikreddyp97@gmail.com
 
 <!---
